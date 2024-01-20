@@ -23,6 +23,8 @@ Tecnologias que gosto de utilizar
   <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br>
 
+![Snake animation](https://github.com/rafaelaraujo25/rafaelaraujo25/blob/output/github-contribution-grid-snake.svg)
+
 
  📧- Para entrar em contato: rfinha2504@gmail.com
   🤠
