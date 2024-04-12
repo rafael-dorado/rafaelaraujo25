@@ -1,14 +1,14 @@
 👋 EAE, EU SOU O RAFAEL!
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelaraujo25)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafael-dorado)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.araujo18/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-araújo2504)
 
 <div>
-  <a href="https://github.com/rafaelaraujo25">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelaraujo25&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFAELARAUJO25&layout=compact&langs_count=7&theme=onedark" />
+  <a href="https://github.com/rafael-dorado">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-dorado&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFAEL-DORADO&layout=compact&langs_count=7&theme=onedark" />
 </div>
 
 Tecnologias que gosto de utilizar
